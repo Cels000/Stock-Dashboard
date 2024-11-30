@@ -1,0 +1,18 @@
+# PyCharm
+../.idea/
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+ENV/
+
+# API Keys and Sensitive Data
+config/.api_keys.json
+config/.encryption_key
+
+# Other
+.DS_Store
+*.log
+tre
